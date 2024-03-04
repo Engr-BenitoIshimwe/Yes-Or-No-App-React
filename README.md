@@ -1,3 +1,3 @@
-## Yes Or No App | React 
+## Yes Or No Application | React 
 
 🌎 Website: https://yesornoapplication.netlify.app/
